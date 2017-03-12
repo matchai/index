@@ -262,6 +262,12 @@ Colors inspired by Jellybeans Vim palette
 color jellybeans jellyfish bright
 Limeth
 
+jhipster
+https://github.com/jhipster/jhipster-fisherman-plugin
+Official JHipster fisherman plugin
+jhipster java alias
+atomfrede
+
 joker
 https://github.com/fisherman/joker
 Powerline prompt based on the Joker
