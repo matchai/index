@@ -118,12 +118,6 @@ Eco-minimal gray scale prompt
 minimal gray prompt
 bucaran
 
-exenv
-https://github.com/fisherman/exenv
-exenv support plugin
-elixir exenv
-daenney
-
 errno
 https://github.com/oh-my-fish/plugin-errno
 POSIX error code/string translator
@@ -135,6 +129,12 @@ https://github.com/Shadowigor/plugin-errno-grep
 Search error numbers, labels and messages
 posix error grep
 Shadowigor
+
+exenv
+https://github.com/fisherman/exenv
+exenv support plugin
+elixir exenv
+daenney
 
 expand
 https://github.com/oh-my-fish/plugin-expand
