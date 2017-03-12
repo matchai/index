@@ -118,6 +118,12 @@ Eco-minimal gray scale prompt
 minimal gray prompt
 bucaran
 
+exenv
+https://github.com/fisherman/exenv
+exenv support plugin
+elixir exenv
+daenney
+
 errno
 https://github.com/oh-my-fish/plugin-errno
 POSIX error code/string translator
@@ -321,6 +327,12 @@ https://github.com/fisherman/new
 Create a plugin from a template
 create generator template
 bucaran
+
+nodenv
+https://github.com/fisherman/nodenv
+nodenv support plugin
+node nodenv
+daenney
 
 nvm
 https://github.com/fisherman/nvm
