@@ -520,6 +520,12 @@ Change the tab/window title string
 window terminal title
 derekstavis
 
+to
+https://github.com/joehillen/to-fish
+Bookmark directories
+bookmark cd jump navigation
+joehillen
+
 todo.fish
 https://github.com/jaredculp/todo.fish
 Todo lists in your shell
