@@ -442,6 +442,12 @@ Heavily inspired by @mathiasbynens's prompt
 prompt simple
 sotayamashita
 
+spawn
+https://github.com/knarka/spawn
+Template spawning
+template util
+knarka
+
 ssh-agent
 https://github.com/herrbischoff/fish-ssh-agent
 Autostart ssh-agent and add identities
