@@ -130,6 +130,12 @@ Search error numbers, labels and messages
 posix error grep
 Shadowigor
 
+ev
+https://github.com/joehillen/ev-fish
+Load environment variables from files in directories
+env envdir
+joehillen
+
 exenv
 https://github.com/fisherman/exenv
 exenv support plugin
