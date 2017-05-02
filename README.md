@@ -59,4 +59,4 @@ All the plugins listed in this index are property of their respective owners. Fo
 [travis-link]: https://travis-ci.org/fisherman/index
 [travis-badge]: https://img.shields.io/travis/fisherman/index.svg
 [fisherman]: https://github.com/fisherman/fisherman
-[online]: http://fisherman.sh
+[online]: https://fisherman.github.io/
