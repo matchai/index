@@ -22,6 +22,12 @@ Clean autojump loading support
 j cd
 jethrokuan
 
+avn
+https://github.com/martinkacmar/fish-avn
+Automatic node.js version switching
+nvm avn node js
+martinkacmar
+
 await
 https://github.com/fisherman/await
 Wait for background jobs
