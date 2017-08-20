@@ -58,6 +58,12 @@ Powerline, Git prompt optimized for awesome
 prompt powerline
 bobthecow
 
+brew-completions
+https://github.com/laughedelic/brew-completions
+Improved completions for Homebrew
+input brew completion
+laughedelic
+
 cache-file
 https://github.com/nyarly/fish-cache-file
 Utility functions to cache command results into a file
