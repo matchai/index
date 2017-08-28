@@ -364,6 +364,12 @@ Node version manager fish support
 node nvm npm
 FabioAntunes
 
+pipenv
+https://github.com/kennethreitz/pipenv-fish
+Pipenv auto shells for fish.
+python pip pipenv virtualenv
+kennethreitz
+
 pisces
 https://github.com/laughedelic/pisces
 Smartquotes & other pair-symbols autocompletion
