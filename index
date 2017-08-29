@@ -208,6 +208,12 @@ Efficient keybindings for fzf
 fzf cd find fuzzy
 jethrokuan
 
+fzy
+https://github.com/gyakovlev/fzy
+fuzzy finder for history (ctrl+r) and kill command
+fuzzy kill fzy search history
+gyakovlev
+
 get
 https://github.com/fisherman/get
 Interactive prompt reader
