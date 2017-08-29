@@ -209,7 +209,7 @@ fzf cd find fuzzy
 jethrokuan
 
 fzy
-https://github.com/gyakovlev/fzy
+https://github.com/fisherman/fzy
 fuzzy finder for history (ctrl+r) and kill command
 fuzzy kill search history
 gyakovlev
