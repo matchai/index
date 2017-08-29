@@ -30,7 +30,7 @@ The fisherman index powers the [online] search.
 Create a pull request in this repository.
 
 ```fish
-git clone https://github.com/fisherman/fisher-index
+git clone https://github.com/fisherman/index
 cd index
 echo "$name\n$url\n$info\n$tags\n$author\n\n" >> index
 git push origin master
