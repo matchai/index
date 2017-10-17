@@ -514,6 +514,12 @@ Powerline prompt based on Superman
 prompt powerline dc
 bucaran
 
+symnav
+https://github.com/externl/fish-symnav
+Symbolic link navigation
+symbolic link symlink
+externl
+
 tab
 https://github.com/oh-my-fish/plugin-tab
 Open new tabs from the command line
