@@ -118,6 +118,12 @@ Conditional debug logger
 debug instrument log
 bucaran
 
+docker-compose
+https://github.com/brgmnn/fish-docker-compose
+Completions for docker-compose command for docker
+docker completion
+brgmnn
+
 done
 https://github.com/fisherman/done
 Automatically get notified when long processes are finished
